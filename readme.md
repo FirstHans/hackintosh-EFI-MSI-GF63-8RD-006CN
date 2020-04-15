@@ -7,3 +7,5 @@
 CLOVER 5111
 
 目前只剩英特尔网卡未解决
+
+直接点https://github.com/FirstHans/hackintosh-EFI-MSI-GF63-8RD-006CN/releases/
